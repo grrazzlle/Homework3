@@ -1,1 +1,1 @@
-# Homework3
+University of Miami Full Stack Course Homework number 3. This homework is about making a random password generator, to get started press the generate password button.
