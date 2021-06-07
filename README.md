@@ -5,7 +5,7 @@
 
   ## Description
 
-  Generates ramdom passwords based on users needs
+  Generates random passwords based on users needs
 
   ## Table of contents
 
